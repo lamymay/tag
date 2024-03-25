@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A565A7FD2CDE861433E3D15 /* tmp.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A565CE652B0AA23D81803CF /* tmp.txt */; };
 		1A565F44ED88B817FB3E57E7 /* AudioGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5654F0C76B8C5810018330 /* AudioGridView.swift */; };
 		6C17AF552BA72B4100D0B528 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C17AF542BA72B4100D0B528 /* ContentView.swift */; };
 		6C17AF572BA72B4200D0B528 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C17AF562BA72B4200D0B528 /* Assets.xcassets */; };
@@ -45,7 +44,6 @@
 
 /* Begin PBXFileReference section */
 		1A5654F0C76B8C5810018330 /* AudioGridView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioGridView.swift; sourceTree = "<group>"; };
-		1A565CE652B0AA23D81803CF /* tmp.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = tmp.txt; sourceTree = "<group>"; };
 		6C17AF4F2BA72B4100D0B528 /* tag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C17AF542BA72B4100D0B528 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6C17AF562BA72B4200D0B528 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -128,7 +126,6 @@
 				6CFA85102BB0570C00E5A7C9 /* AudioView.swift */,
 				6CFA85142BB0698300E5A7C9 /* PlayControlView.swift */,
 				6CFA85162BB06BF200E5A7C9 /* MusicPlayer.swift */,
-				1A565CE652B0AA23D81803CF /* tmp.txt */,
 				1A5654F0C76B8C5810018330 /* AudioGridView.swift */,
 			);
 			path = tag;
@@ -266,7 +263,6 @@
 			files = (
 				6C17AF5A2BA72B4200D0B528 /* Preview Assets.xcassets in Resources */,
 				6C17AF572BA72B4200D0B528 /* Assets.xcassets in Resources */,
-				1A565A7FD2CDE861433E3D15 /* tmp.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
